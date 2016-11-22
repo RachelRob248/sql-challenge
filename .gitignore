@@ -1,1 +1,2 @@
-https://www.gitignore.io/api/node,osx
+*.DS_store
+node_modules

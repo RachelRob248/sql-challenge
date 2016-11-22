@@ -1,0 +1,55 @@
+html {
+  background-color: #c5f7f4;
+  width: 100%;
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+#content {
+  color: #285b10;
+  width: 100%;
+  height: 100%;
+  margin:auto;
+  text-align: center;
+}
+
+#content h1 {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+#content h2 {
+  font-weight: 300;
+  font-size: 40px;
+}
+
+#content h3 {
+  font-weight: 200;
+  font-size: 30px;
+}
+
+#content a {
+  text-decoration: none;
+}
+
+#content p {
+  font-size: 20px;
+  font-weight: 150;
+  width: 80%;
+  padding-left: 10%;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #285b10;
+  color: #fcfcfc;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}

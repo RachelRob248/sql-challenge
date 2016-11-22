@@ -1,0 +1,1 @@
+The code should run for you when you type in "npm start", and has a prestart to run the database.  You may have to edit the start and prestart to work for your computer.  You will also want to edit the app.js connection to the database (line 5) so it's no longer using my psql password and username to connect.
